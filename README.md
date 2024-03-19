@@ -98,8 +98,10 @@ I am a Full Stack Developer with a special kind of tenacity, and driven <img src
   </a>
 </div>
 
+<div>
   <a href="https://github.com/AJVancattenburch/github-readme-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=AJVancattenburch&theme=jolly" height="160" width="450" align="left"/>
   </a>
+</div>
 
 ---
