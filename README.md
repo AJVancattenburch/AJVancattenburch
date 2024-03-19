@@ -90,10 +90,10 @@ I am a Full Stack Developer with a special kind of tenacity, and driven <img src
 ### :fire: My Stats :
 <div>
   <a href="https://github.com/AJVancattenburch/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=AJVancattenburch&hide=issues,contribs&show=prs_merged,prs_merged_percentage_icons,include_all_commits=true&rank_icon=github&theme=jolly" height="170" width="475"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=AJVancattenburch&hide=issues,contribs&show=prs_merged,prs_merged_percentage_icons,include_all_commits=true&rank_icon=github&theme=jolly" height="170" width="450"/>
   </a>
   <a href="https://github.com/AJVancattenburch/github-readme-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=AJVancattenburch&theme=jolly" height="170" width="475"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=AJVancattenburch&theme=jolly" height="170" width="450"/>
   </a>
 </div>
 
