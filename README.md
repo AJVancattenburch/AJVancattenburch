@@ -88,7 +88,7 @@ I am a Full Stack Developer with a special kind of tenacity, and driven <img src
 ---
 
 ### :fire: My Stats :
-<div>
+<div align="center">
   <a href="https://github.com/AJVancattenburch/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=AJVancattenburch&hide=issues,contribs&show=prs_merged,prs_merged_percentage_icons,include_all_commits=true&rank_icon=github&theme=jolly" height="180" width="400"/>
   </a>
