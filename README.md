@@ -100,7 +100,7 @@ I am a Full Stack Developer with a special kind of tenacity, and driven <img src
 
 <div>
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=AJVancattenburch&theme=jolly&width=520" alt="GitHub Streak" width="480" height="160"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=AJVancattenburch&theme=jolly&width=460" alt="GitHub Streak" width="480" height="160"/>
   </a>
 </div>
 
