@@ -99,8 +99,8 @@ I am a Full Stack Developer with a special kind of tenacity, and driven <img src
 </div>
 
 <div>
-  <a href="https://github.com/AJVancattenburch/github-readme-stats">
-    &nbsp;&nbsp;&nbsp;&nbsp;<img src="http://github-readme-streak-stats.herokuapp.com?user=AJVancattenburch&theme=jolly" height="160" width="450"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=AJVancattenburch&theme=jolly&card_width=500" alt="GitHub Streak" />
   </a>
 </div>
 
