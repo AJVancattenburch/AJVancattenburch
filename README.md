@@ -19,35 +19,55 @@
     <img src="https://komarev.com/ghpvc/?username=AJVancattenburch&style=flat-square&color=blue" alt="Profile View Counter" title="Profile view count as of May 18, 2024"/>
   </h5>
 </div>
-
+    
 <div align="center">
-  <kbd>
-    <img 
-      src="https://camo.githubusercontent.com/10b2d4e80487e1d9cd086ce8619e15740a1bd22c6462f6be13df93ee684deb7b/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966"
-      width="600"
-      height="400"
-      alt="Waving Programmer gif"
-    />
-  </kbd>
+  <img src="https://media1.giphy.com/media/mGPBHjsi5GcQfC8hLc/giphy.gif?cid=6c09b952yuyeu0xb89q12hyehh4o5p1hsf96q4mrect2agfg&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="200"/>
+</div>
+<div align="center">
+  <img src="https://media3.giphy.com/media/B6ks3eTSxhk4EvABa6/giphy.gif?cid=6c09b952gk93ptwncg7837mq8oalwybzb7gmfmahiwmvhp8v&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="300" />
 </div>
 
+---
 
 ### 🧑‍💻 About Me:
 I am a Full Stack Developer with a special kind of tenacity, and driven <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG1lbmczMXRwdHY5cGNjZGV3OTJ3anJ6dXRjcGNrNHhuaXo4d2w5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ck5Ex8j9k0On1eLs1H/giphy.gif" width="30"/> by my personal journey and guided by a deep sense of purpose, I am always excited to contribute with a dynamic and forward-thinking team. I bring perseverance, integrity, and a rapid learning ability to every project, striving to create impactful software solutions that push boundaries and drive positive change. I currently reside in the beautiful Boise, Idaho and am an application building / outdoor enthusiast that thrives in any setting that fosters creativity, collaboration, and a thirst for knowledge and becoming better at what we do each and every day!
 
-
-- 🚀 I crave expanding my knowledge on new technologies, but even moreso growing within frameworks and languages that I am already well-versed and proficient in. Programming is bottomless, and what I love about it most is adding tools to my toolkit that aide in my ability to recognize and categorize classic problems, and applying my skill sets in creating solutions for those problems. Preferably within a team setting whenever possible.
-  
-- 🎨 I also have significant experience in Adobe Photoshop (10 years), creative writing, and marketing for local events through Social Media. I have a particular knack for creating captivating User Experiences and design interfaces, creating both 2D and 3D animations, and have a lot of knowledge in important and frequently looked over talents such as color theory / psychology, optimal times of day to post on social media for maximum outreach, etc.
-  
-- ☺ During my free time, I enjoy learning about new tech and building on the knowledge I already have, playing video games, snowboarding, longboarding. camping / outdoors, and spending time with my family.
-  
-- 📧 Let's connect! How to contact me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonyvancattenburch/)
+<ul>
+  <li>
+    🚀 I crave expanding my knowledge on new technologies, but even moreso growing within frameworks and languages that I am already well-versed and proficient in. Programming is bottomless, and what I love about it most is adding tools to my toolkit that aide in my ability to recognize and categorize classic problems, and applying my skill sets in creating solutions for those problems. Preferably within a team setting whenever possible.
+  </li>
+  <li>
+    🎨 I also have significant experience in Adobe Photoshop (10 years), creative writing, and marketing for local events through Social Media. I have a particular knack for creating captivating User Experiences and design interfaces, creating both 2D and 3D animations, and have a lot of knowledge in important and frequently looked over talents such as color theory / psychology, optimal times of day to post on social media for maximum outreach, etc.
+  </li>
+  <li>
+    ☺ During my free time, I enjoy learning about new tech and building on the knowledge I already have, playing video games, snowboarding, longboarding. camping / outdoors, and spending time with my family.
+  </li>
+</ul>
+<div align="left">
+  <kbd>
+    <div align="center">
+      <h3>
+        Contact me now!
+      </h3>
+      <img src="https://static.wixstatic.com/media/d7f1c6_a2a247ebff3749dfae4a6a2ec9f53f9b~mv2.gif" width="40"/>
+      <a href="https://www.linkedin.com/in/anthonyvancattenburch/">
+        <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" title="Click me to be redirected to my LinkedIn Profile"/>
+      </a>
+      <img src="https://static.wixstatic.com/media/d7f1c6_a2a247ebff3749dfae4a6a2ec9f53f9b~mv2.gif" width="40"/>
+        <h3> Let's make an impact together and connect!</h3>
+        <img 
+          src="https://camo.githubusercontent.com/10b2d4e80487e1d9cd086ce8619e15740a1bd22c6462f6be13df93ee684deb7b/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966"
+          width="300"
+          height="200"
+          alt="Waving Programmer gif"
+        />
+    </div>
+  </kbd>
+</div>
 
 ---
 
 <h3> :hammer_and_wrench: Languages and Tools : </h3>
-
 <div>
   <kbd>
     <div>
